@@ -13,3 +13,6 @@ SOURCE: [Link to Dataset](https://www.kaggle.com/datasets/datasnaek/mbti-type)
 - **Model Evaluation**: Evaluated model performance using metrics such as **accuracy**, **precision**, **recall**, and **F1-score**.
 - **Results**: Identified the best-performing model, achieving an accuracy of up to 80% on the test set.
 - **Visualization**: Included confusion matrices and ROC curves to visualize the results of the model evaluations.
+
+## Summary
+In this project, we conducted exploratory data analysis to understand the dataset better. We examined the distribution of personality types and analyzed the average post lengths associated with each personality type. This analysis provided insights that could inform feature engineering and model selection.
